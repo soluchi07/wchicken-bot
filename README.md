@@ -1,8 +1,4 @@
-Here’s a polished and recruiter-friendly rewrite of your README. I’ve framed it to highlight your technical skills, project complexity, and real-world software development experience while keeping it concise and professional:
-
----
-
-# Discord Quotes Bot 🤖✨
+# Discord Quotes Bot 🤖
 
 **Technologies:** Python, Discord.py, JSON, dotenv, OOP, Async Programming
 
@@ -13,7 +9,7 @@ A fully-featured Discord bot built to engage server members with fun interaction
 * **Interactive Message Responses:**
   Responds contextually to keywords such as `"wagwan"` and `"crazy"`, enhancing user engagement with personalized messages.
 * **Quote Command:**
-  `/get_quote` returns a random inspirational or humorous quote stored in a JSON file, showcasing dynamic data handling.
+  `/get_quote` returns a random inspirational or humorous quote stored in a JSON file (quotes.json), showcasing dynamic data handling.
 * **Message Edit Tracking:**
   Monitors and logs edited messages, sending notifications that preserve conversational context.
 * **Custom Command Syncing:**
